@@ -1,2 +1,2 @@
-# 3week
-UMC-3week
+# 2week
+UMC-2week
